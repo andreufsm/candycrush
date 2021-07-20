@@ -1,0 +1,27 @@
+.grid{
+	height: 560px;
+	width: 560px;
+	display: flex;
+	flex-wrap: wrap;
+	margin: 0 auto;
+
+}
+
+.score-board{
+	color: green;
+	position: center;
+	text-align: center;
+	font-family:verdana
+}
+
+.grid div{
+	height: 70px;
+	width: 70px;
+	background-color: white;
+
+}
+
+body{
+	background-image: url('imagens/fundo-candycrush2.jpg');
+	background-size: cover;
+}
